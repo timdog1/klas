@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa88c83eca83Db24F07687ec64Be8f8D8A3C06B99",
+  "SCAN_LINK": "https://testnet.snowtrace.io/address/0xa88c83eca83Db24F07687ec64Be8f8D8A3C06B99",
+  "NETWORK": {
+    "NAME": "Avalanche FUJI C-Chain",
+    "SYMBOL": "AVAX",
+    "ID": 43113
+  },
+  "NFT_NAME": "The Funky Horse Pub",
+  "SYMBOL": "FHP",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "NFTrade",
+  "MARKETPLACE_LINK": "https://testnets.nftrade.com/assets/fuji/0xa88c83eca83Db24F07687ec64Be8f8D8A3C06B99",
+  "SHOW_BACKGROUND": true
+}
